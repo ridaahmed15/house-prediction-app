@@ -113,6 +113,13 @@ if select=="PREDICT PRICE":
                 predic=int(predicted_price[0])   #2 k decimal me round krwa k predic k variable me dal dia or phr nechy print krwadia
                 st.info(predic)
 
+st.subheader("ABOUT US")
+st.write("Welcome to our platform, where we are dedicated to transforming the home-selling experience into a seamless and stress-free journey for every homeowner. Our team combines deep local market expertise with innovative digital strategies to ensure your property gains maximum visibility, attracts the right buyers, and achieves the best possible market value. We believe that selling a home is more than just a transaction; it is a major life milestone, and we are committed to providing you with transparent communication, professional guidance, and unwavering support from the initial consultation to the final closing.")
+st.write("Driven by a passion for excellence and integrity, our mission is to redefine how people connect with their next living space. Whether you are navigating the complexities of the current market for the first time or you are an experienced seller looking for a strategic partner, we tailor our approach to meet your unique goals. By focusing on high-impact marketing, personalized service, and a deep understanding of buyer psychology, we help you showcase your home's true potential. Let us take the stress out of your move so you can focus on the excitement of your next chapter.")       
+
+
+
+
 
 
 
